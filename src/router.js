@@ -26,7 +26,7 @@ function Router(){
           <div className='qrcode'>
           <img alt='qrcode' src={require('./data/qrcode.jpg')}></img>
           </div>
-          <div className='qrcodeText'>详情推荐关注公众号.</div>
+          <div className='qrcodeText'>详情推荐关注公众号!</div>
         </div>
         </div>
 
